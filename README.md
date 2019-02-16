@@ -1,0 +1,3 @@
+# dmidecode
+
+Dmidecode parser.
